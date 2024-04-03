@@ -21,5 +21,7 @@ public class Database2 {
     @Column
     private String employeeNumber;
     @Column
+    private String phoneNumber;
+    @Column
     private String position;
 }
